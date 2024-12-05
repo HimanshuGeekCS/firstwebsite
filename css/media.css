@@ -1,0 +1,122 @@
+@media only screen and (min-width: 200px) and (max-width:575px)
+{
+    .btn-outer {
+        position: fixed;
+        bottom: 0px;
+        left: 0px;
+        width: 100%;
+        justify-content: center !important;
+        padding: 5px 0px;
+        background: white;
+
+    }
+    .whatsappbtn, .call {
+        padding: 7px 15px;
+        font-size: 14px;
+    }
+
+ /* 2 sectiong part */
+
+    .bannerContent h1{
+        font-size: 30px !important;
+        font-weight: 700;
+        text-align: center;
+        line-height: 35px;
+    }
+    .bannerContent br{
+       display: none;
+    }
+    .bannerContent p,ul li{
+        font-size: 16px;
+    }
+    
+    .bannerContentbtn {
+        flex-direction: column;
+    
+    }
+    .bannerContentbtn button {
+        width: 100% !important;
+    
+    }
+    /* 2-2 sectiong part */
+    .bannerform{
+        padding: 20px !important;
+    }
+    .countersection h3{
+        font-size: 20px !important;
+    }
+    
+    .countersection p{
+        font-size: 13px !important;
+    }
+
+    /* section 3 */
+
+    .highlighs-section h2{
+        font-size: 28px !important;
+
+    }
+    .highlighs-items button{
+    
+        padding: 15px 35px !important;
+    }
+
+    /* section 4 */
+    .highlighs-section3 h4{
+        font-size: 25px !important;
+        
+    }
+    .highlighs-section3 p{
+        font-size: 12px !important;
+    }
+
+    .highlighs-section3-item h4{
+        font-size: 15px !important;
+       
+    }
+    .highlighs-section3-item p{
+        font-size: 12px !important;
+    }
+
+      /* section 5 */
+      .highlighs-section4{
+        padding-top: 0px !important;
+    }
+    .highlighs-section4btn {
+        margin: 25px 0px !important;
+        text-align: center !important;
+    }
+
+    .highlighs-section4img {
+        text-align: center;
+    }
+
+     /* section 7 */
+
+    .highlighs-section7-items h4{
+        font-size: 35px !important;
+        font-weight: 700;
+    }
+    .highlighs-section7-items p{
+        font-size: 16px !important;
+    }
+
+     /* section 11 */
+    .highlighs-section11-items h2{
+
+        font-size: 23px !important;
+    }
+      /* section 12 */
+    .highlighs-section12-items p {
+        font-size: 12px !important;
+      
+    }
+    
+}
+
+/* first containet modi fied */
+@media (min-width: 1400px) {
+    .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+        max-width: 1170px;
+    }
+}

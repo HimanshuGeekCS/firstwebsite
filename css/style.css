@@ -1,0 +1,255 @@
+*{
+    font-family: "Inter", sans-serif;
+}
+.whatsappbtn{
+    border: 1px solid #27AE60;
+    padding: 10px 18px;
+    color: #27AE60;
+    font-size: 16px;
+}
+.whatsappbtn i{
+    color: #27AE60;
+}
+.whatsappbtn:hover{
+    border: 1px solid #27AE60;
+
+}
+.call{
+    background: linear-gradient(to right, #0ACEFE,#2699FB);
+    color: white;
+    padding: 10px 18px;
+   
+}
+
+/* 2-1 sectiong part */
+
+.bannerContent h1{
+    font-size: 52px;
+    font-weight: 700;
+}
+.bannerContent h1 span{
+    color: #2699FB;
+    background: url("/project/img/Vector\ 63.png") no-repeat bottom;
+}
+.bannerContent p{
+    font-size: 22px;
+}
+.bannerContent ul{
+    list-style: none;
+
+}
+.bannerContent ul li{
+    font-size: 22px;
+}
+.bannerContent ul li i{
+    color: #2699FB;
+}
+.bannerContentbtn button{
+    width: 50%;
+    padding: 16px 0px;
+    border: none;
+
+}
+.bannerContentbtn button{
+    background: linear-gradient(#0ACEFE,#2699FB);
+    color: white;
+}
+
+/* 2-2 sectiong part */
+.bannerform{
+    padding: 40px;
+    border-radius: 10px;
+}
+.bannerform h3{
+    font-size: 18px;
+    font-weight: 700;
+}
+.bannerform button{
+    width: 100%;
+    padding: 10px 0px;
+    color: white;
+    border: none;
+    background: linear-gradient(#0ACEFE,#2699FB);
+}
+
+
+.countersection h2{
+    font-size: 30px;
+    font-weight: 700;
+    color: #2699FB;
+}
+
+/* section 3 */
+
+.highlighs-section{
+    background: #F7FAFF;
+}
+.highlighs-section h2{
+    color: #0A2134;
+    font-size: 36px;
+    font-weight: 700;
+}
+.highlighs-section p{
+    font-size: 18px;
+}
+.highlighs-items h4{
+    font-size: 20px;
+}
+.highlighs-items p{
+    font-size: 15px;
+}
+.highlighs-items button{
+    font-size: 15px;
+    padding: 15px 45px;
+    background: linear-gradient(#0ACEFE,#2699FB);
+    border: none;
+    color: white;
+}
+
+/* section 4 */
+.highlighs-section3 h4{
+    font-size: 30px;
+    font-weight: 700;
+}
+.highlighs-section3 p{
+    font-size: 18px;
+}
+
+.highlighs-section3-item h4{
+    font-size: 18px;
+    font-weight: 700;
+}
+.highlighs-section3-item p{
+    font-size: 15px;
+}
+
+
+.tabmy .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    background-color: #F2F4F7;
+    color: black;
+    border-bottom: 2px solid #2699FB;
+    border-radius: 0%;
+
+}
+
+/* section 5 */
+.highlighs-section4{
+background: #F7FAFF;
+}
+.highlighs-section4-items h2{
+    font-size: 40px;
+    font-weight: 700;
+}
+.highlighs-section4-items p{
+    font-size: 15px;
+}
+
+.highlighs-section4-items-2 h5{
+font-size: 19px;
+}
+.highlighs-section4-items-2 p{
+font-size: 13px;
+}
+.highlighs-section4 button{
+    font-size: 15px;
+    padding: 15px 45px;
+    background: linear-gradient(#0ACEFE,#2699FB);
+    border: none;
+    color: white;
+
+}
+
+/* section 7 */
+
+.highlighs-section7 {
+    background-color: #F7FAFF;
+}
+.highlighs7-items h4{
+    font-size: 20px;
+    font-weight: 600;
+
+}
+.highlighs7-items p{
+    font-size: 12px;
+
+}
+
+/* section 7 */
+.highlighs-section7-items h4{
+    font-size: 44px;
+    font-weight: 700;
+}
+.highlighs-section7-items p{
+    font-size: 18px;
+}
+.highlighs-section7-items h5{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+/* section 8 */
+.highlighs-section8-item {
+    background: linear-gradient(#0ACEFE,#2699FB);
+
+}
+.highlighs-section8-item h2{
+    font: 44px;
+    color: white;
+    font-weight: 700;
+}
+.highlighs-section8-item p{
+    font: 18px;
+    color: white;
+    font-weight: 500;
+}
+.highlighs-section8-item button{
+    font-size: 20px;
+    padding: 8px 30px;
+    background: white;
+    border: none;
+    color: black;
+    font-weight: 700;
+
+}
+
+/* section 9 */
+.highlighs-section10{
+    background-color: #F7FAFF;
+
+}
+.highlighs-section10 h2{
+    font-size: 44px;
+    font-weight: 700;
+}
+.highlighs-section10 p{
+    font-size: 18px;
+    
+}
+.highlighs-section10-items h2 button{
+    /* color: #0ACEFE; */
+}
+
+
+
+
+/* section 11 */
+.highlighs-section11-items h2{
+
+    font-size: 36px;
+    font-weight: 700;
+}
+
+/* section 12 */
+.highlighs-section12{
+  background-color: #0A2540;
+}
+.highlighs-section12-items p {
+    color: white;
+    font-size: 16px;
+  
+}
+
+
+
+
+
